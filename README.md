@@ -70,4 +70,4 @@ A complete client‑side authentication system featuring user registration, logi
 - [LinkedIn](https://www.linkedin.com/in/sravya-mudupu-8860a3389)
 
 ## 📅 Date
-01 September 2026
+02 September 2026
